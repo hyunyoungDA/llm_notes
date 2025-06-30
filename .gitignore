@@ -4,4 +4,10 @@
 
 ## 모델 결과
 
-results
+*.results
+results/
+
+## 실습 데이터
+
+data
+
