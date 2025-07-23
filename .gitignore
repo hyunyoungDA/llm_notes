@@ -11,3 +11,6 @@ results/
 
 data
 
+## 모델
+
+*.pth
