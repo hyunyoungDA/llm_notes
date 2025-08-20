@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "web-search": {
+      "transport": "stdio",
+      "command": "node",
+      "args": ["open-webSearch/build/index.js"]
+    }
+  }
+}
